@@ -10,7 +10,7 @@ apps:
   argocd:
     enabled: true
   knative:
-    enabled: true
+    enabled: false
   harbor:
     enabled: true
   tekton:
