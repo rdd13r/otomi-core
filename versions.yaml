@@ -1,4 +1,4 @@
 api: custom-workloads
-console: custom-workloads
+console: deprecate-kubecfg-download
 tasks: 1.0.0
 tools: 1.4.25
