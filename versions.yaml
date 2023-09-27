@@ -1,4 +1,4 @@
-api: main
-console: main
+api: shell-terminate
+console: shell-terminate
 tasks: main
 tools: 1.4.25
